@@ -7,7 +7,7 @@ public class test
 		
 		System.out.println("Hiss");
 		
-		
+		System.out.println("Hello");
 	}
 
 }
